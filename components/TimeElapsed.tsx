@@ -40,6 +40,7 @@ export function TimeElapsed() {
       <p className="text-2xl font-semibold text-pink-100 whitespace-pre-line">
         {timeElapsed}
       </p>
+      <h2 className="text-xl font-semibold text-pink-100">Primeiro beijo: 08/06/2023 </h2>
     </div>
   );
 }

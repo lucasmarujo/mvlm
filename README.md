@@ -18,8 +18,3 @@ Um site romântico e interativo que celebra o tempo de relacionamento de um casa
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Lucide React](https://lucide.dev/) para ícones
 - [Embla Carousel](https://www.embla-carousel.com/) para o carrossel de imagens
-- [Radix UI](https://www.radix-ui.com/) para componentes base
-
-## 📦 Instalação
-
-1. Clone o repositório:
